@@ -1,0 +1,224 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [:react-native-vector-icons] /home/lenovo/lamp_app_base/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-bluetooth-serial-next] /home/lenovo/lamp_app_base/node_modules/react-native-bluetooth-serial-next/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/lenovo/.gradle/caches/transforms-2/files-2.1/331a5fed537a5bc37361e2a0e02380c7/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/lenovo/.gradle/caches/transforms-2/files-2.1/e0fe09874cd7aafdab2d9a8a88505515/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/lenovo/.gradle/caches/transforms-2/files-2.1/124a26126d1b9c55b1376313aeedf68d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/ca81bd8a45caab492a48aec1f30e235d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/41f1cfb75bc7d775a5ae69e3b867e7ec/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/6d8ad2e36d200d02218bf1032e977de5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/438d785de663280a648a74b4471ba844/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/57197be73065182f308e849484cb981c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/c2d51efe5fcf439375fdffc116c84451/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/43631fb511c56e36d35c28dd6a8fb68a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7beff971abe4cb8ae9621e293f240f4c/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/3c2a63a33a76feeb83f4987e26a32b57/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/8a031b0db4d57474a394d7d1abeba893/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/cfb69d215c4b261885be23d70cbe3fa9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/50ef90f520c046b8c597db4b4367ed09/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/lenovo/.gradle/caches/transforms-2/files-2.1/f3bf72a47b6c415d68daa4927606a4ed/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/9579b4c9f54392708ce4975acd88a901/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/3568d52e9e0c983d0302930fa5d369d8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/8029c0d5266d9372cabe9c91973a36df/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/56bcfa431dd56a32e82050ca4f0a288b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/e054c5d7ac31eac5491f971f4e080b55/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/e5f4d1043291cd6fd5c0bb64bd15c6aa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/610c9552e12127ec5e84472ef083ec27/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/b34a14344d7c7735846e9953f83cc88a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/lenovo/.gradle/caches/transforms-2/files-2.1/d2eb643b337952a811da214d0106d56c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/5f7a9246f19f07bdba6d5429d475f29a/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/bd151c124e35f5a063d1e75fbd7bb1b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/ef33f54979c061e9bae8838f032e4ae5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/b09afe30bbc1ee23b86cda4353f4183d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/e41ae7e144b8f2d06d9d27e7a8bbd524/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/92cc33ac1636a241160416eb19fa9d5b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/a1ee105e2632d072980905f85a4e718e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/54bc798d9443cc7ddef16cce403cfe43/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/15e897918ae81802f6a24b2879becb7d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/5a8b9b63e0881bf6605560c7c1b467e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/ad04444a38f977ef98bbdfec567bf3eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/99e1b4f8db11ebf696fe6f8e88386226/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:6:1-64
+MERGED from [:react-native-bluetooth-serial-next] /home/lenovo/lamp_app_base/node_modules/react-native-bluetooth-serial-next/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-68
+MERGED from [:react-native-bluetooth-serial-next] /home/lenovo/lamp_app_base/node_modules/react-native-bluetooth-serial-next/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:6:18-61
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:7:1-70
+MERGED from [:react-native-bluetooth-serial-next] /home/lenovo/lamp_app_base/node_modules/react-native-bluetooth-serial-next/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-74
+MERGED from [:react-native-bluetooth-serial-next] /home/lenovo/lamp_app_base/node_modules/react-native-bluetooth-serial-next/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:7:18-67
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:8:1-77
+MERGED from [:react-native-bluetooth-serial-next] /home/lenovo/lamp_app_base/node_modules/react-native-bluetooth-serial-next/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-81
+MERGED from [:react-native-bluetooth-serial-next] /home/lenovo/lamp_app_base/node_modules/react-native-bluetooth-serial-next/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:8:18-74
+application
+ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:10:5-28:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/lenovo/.gradle/caches/transforms-2/files-2.1/331a5fed537a5bc37361e2a0e02380c7/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/lenovo/.gradle/caches/transforms-2/files-2.1/331a5fed537a5bc37361e2a0e02380c7/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7beff971abe4cb8ae9621e293f240f4c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7beff971abe4cb8ae9621e293f240f4c/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /home/lenovo/.gradle/caches/transforms-2/files-2.1/d2eb643b337952a811da214d0106d56c/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/lenovo/.gradle/caches/transforms-2/files-2.1/d2eb643b337952a811da214d0106d56c/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/5f7a9246f19f07bdba6d5429d475f29a/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/5f7a9246f19f07bdba6d5429d475f29a/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/lenovo/.gradle/caches/transforms-2/files-2.1/d2eb643b337952a811da214d0106d56c/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:12:7-39
+	android:roundIcon
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:14:7-52
+	android:icon
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:13:7-41
+	android:allowBackup
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:15:7-34
+	android:theme
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:16:7-38
+	android:name
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:11:7-38
+activity#com.lamp_app_base.MainActivity
+ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:17:7-26:18
+	android:label
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:19:9-41
+	android:windowSoftInputMode
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:21:9-51
+	android:configChanges
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:20:9-79
+	android:name
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:18:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:22:9-25:25
+action#android.intent.action.MAIN
+ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:23:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:24:13-73
+	android:name
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:24:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:27:7-84
+	android:name
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml:27:17-81
+uses-sdk
+INJECTED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /home/lenovo/lamp_app_base/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/lenovo/lamp_app_base/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-bluetooth-serial-next] /home/lenovo/lamp_app_base/node_modules/react-native-bluetooth-serial-next/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-bluetooth-serial-next] /home/lenovo/lamp_app_base/node_modules/react-native-bluetooth-serial-next/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/lenovo/.gradle/caches/transforms-2/files-2.1/331a5fed537a5bc37361e2a0e02380c7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/lenovo/.gradle/caches/transforms-2/files-2.1/331a5fed537a5bc37361e2a0e02380c7/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/lenovo/.gradle/caches/transforms-2/files-2.1/e0fe09874cd7aafdab2d9a8a88505515/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/lenovo/.gradle/caches/transforms-2/files-2.1/e0fe09874cd7aafdab2d9a8a88505515/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/lenovo/.gradle/caches/transforms-2/files-2.1/124a26126d1b9c55b1376313aeedf68d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/lenovo/.gradle/caches/transforms-2/files-2.1/124a26126d1b9c55b1376313aeedf68d/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/ca81bd8a45caab492a48aec1f30e235d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/ca81bd8a45caab492a48aec1f30e235d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/41f1cfb75bc7d775a5ae69e3b867e7ec/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/41f1cfb75bc7d775a5ae69e3b867e7ec/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/6d8ad2e36d200d02218bf1032e977de5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/6d8ad2e36d200d02218bf1032e977de5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/438d785de663280a648a74b4471ba844/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/438d785de663280a648a74b4471ba844/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/57197be73065182f308e849484cb981c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/57197be73065182f308e849484cb981c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/c2d51efe5fcf439375fdffc116c84451/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/c2d51efe5fcf439375fdffc116c84451/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/43631fb511c56e36d35c28dd6a8fb68a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/43631fb511c56e36d35c28dd6a8fb68a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7beff971abe4cb8ae9621e293f240f4c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7beff971abe4cb8ae9621e293f240f4c/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/3c2a63a33a76feeb83f4987e26a32b57/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/3c2a63a33a76feeb83f4987e26a32b57/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/8a031b0db4d57474a394d7d1abeba893/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/8a031b0db4d57474a394d7d1abeba893/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/cfb69d215c4b261885be23d70cbe3fa9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/cfb69d215c4b261885be23d70cbe3fa9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/50ef90f520c046b8c597db4b4367ed09/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/50ef90f520c046b8c597db4b4367ed09/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/lenovo/.gradle/caches/transforms-2/files-2.1/f3bf72a47b6c415d68daa4927606a4ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/lenovo/.gradle/caches/transforms-2/files-2.1/f3bf72a47b6c415d68daa4927606a4ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/9579b4c9f54392708ce4975acd88a901/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/9579b4c9f54392708ce4975acd88a901/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/3568d52e9e0c983d0302930fa5d369d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/3568d52e9e0c983d0302930fa5d369d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/8029c0d5266d9372cabe9c91973a36df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/8029c0d5266d9372cabe9c91973a36df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/56bcfa431dd56a32e82050ca4f0a288b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/56bcfa431dd56a32e82050ca4f0a288b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/e054c5d7ac31eac5491f971f4e080b55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/e054c5d7ac31eac5491f971f4e080b55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/e5f4d1043291cd6fd5c0bb64bd15c6aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/e5f4d1043291cd6fd5c0bb64bd15c6aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/610c9552e12127ec5e84472ef083ec27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/610c9552e12127ec5e84472ef083ec27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/b34a14344d7c7735846e9953f83cc88a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/b34a14344d7c7735846e9953f83cc88a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/lenovo/.gradle/caches/transforms-2/files-2.1/d2eb643b337952a811da214d0106d56c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/lenovo/.gradle/caches/transforms-2/files-2.1/d2eb643b337952a811da214d0106d56c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/5f7a9246f19f07bdba6d5429d475f29a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/5f7a9246f19f07bdba6d5429d475f29a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/bd151c124e35f5a063d1e75fbd7bb1b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/bd151c124e35f5a063d1e75fbd7bb1b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/ef33f54979c061e9bae8838f032e4ae5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/ef33f54979c061e9bae8838f032e4ae5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/b09afe30bbc1ee23b86cda4353f4183d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/b09afe30bbc1ee23b86cda4353f4183d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/e41ae7e144b8f2d06d9d27e7a8bbd524/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/e41ae7e144b8f2d06d9d27e7a8bbd524/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/92cc33ac1636a241160416eb19fa9d5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/92cc33ac1636a241160416eb19fa9d5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/a1ee105e2632d072980905f85a4e718e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/a1ee105e2632d072980905f85a4e718e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/54bc798d9443cc7ddef16cce403cfe43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/54bc798d9443cc7ddef16cce403cfe43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/15e897918ae81802f6a24b2879becb7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/15e897918ae81802f6a24b2879becb7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/5a8b9b63e0881bf6605560c7c1b467e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/5a8b9b63e0881bf6605560c7c1b467e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/ad04444a38f977ef98bbdfec567bf3eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/ad04444a38f977ef98bbdfec567bf3eb/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/99e1b4f8db11ebf696fe6f8e88386226/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/99e1b4f8db11ebf696fe6f8e88386226/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lenovo/lamp_app_base/android/app/src/main/AndroidManifest.xml

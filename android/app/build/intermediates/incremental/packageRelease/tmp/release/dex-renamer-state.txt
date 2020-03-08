@@ -1,0 +1,4 @@
+#Sun Mar 08 11:49:51 CET 2020
+base.0=/home/lenovo/lamp_app_base/android/app/build/intermediates/transforms/dexMerger/release/0
+renamed.0=classes.dex
+path.0=classes.dex
